@@ -1,6 +1,6 @@
 <h1 align="center">
     <div style="height: 70px; width: auto; display: block;">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello, +I'm+Alex!;+An+Android Developer+💚;" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hello, +I'm+Alex!;+An+Android Developer+💚;&font=Righteous&color=1BA232FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000" alt="Example Usage - README Typing SVG">
     </div>
 </h1>
  
