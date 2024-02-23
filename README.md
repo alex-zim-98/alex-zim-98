@@ -4,7 +4,7 @@
     </div>
 </h1>
  
-<div align="center" style="display: block;"> 
+<div align="center"> 
     <div>
           <a href="mailto:alexandr.zimarev.64@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -13,7 +13,7 @@
     <div>
           <a href="https://alex-zim-98.github.io/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+          </a>
     </div>
 
 </div>
